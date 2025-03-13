@@ -2,23 +2,17 @@
 
 ## Overview
 
-TODO: Write a project description
+This project is an interactive web-based animation featuring bouncing balls on a canvas. The project introduces a user-controlled "evil circle" that can "eat" the bouncing balls, along with a score counter to track the number of balls remaining.
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
+I just used the readings from the M9.1-README and my knowledge from other coding classes I've taken.
 
-A simple bulleted list below is sufficient. For example:
+- JavaScript Objects https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Object_basics
+- Object prototypes https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Advanced_JavaScript_objects/Object_prototypes
+- OO programming https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Advanced_JavaScript_objects/Object-oriented_programming
+- Classes in JavaScript https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Advanced_JavaScript_objects/Classes_in_JavaScript
+- Working with JSON https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/JSON
+- Drawing graphics https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Client-side_APIs/Drawing_graphics
+- Video and Audio APIs https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Client-side_APIs/Video_and_audio_APIs
 
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
